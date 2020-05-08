@@ -1,0 +1,19 @@
+{
+  "name": "invoice_script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.671.0",
+    "moment": "^2.25.3",
+    "mysql2": "^2.1.0",
+    "pdfmake": "^0.1.65",
+    "sails": "^1.2.4",
+    "sequelize": "^5.21.7"
+  }
+}
