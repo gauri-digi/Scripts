@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.671.0",
+    "aws-sdk": "^2.814.0",
     "moment": "^2.25.3",
     "mysql2": "^2.1.0",
     "pdfmake": "^0.1.65",
